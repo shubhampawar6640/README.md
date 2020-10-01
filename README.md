@@ -8,3 +8,4 @@
 >>>     print()
 >>> fib(1000)
 hello wrrld
+india
